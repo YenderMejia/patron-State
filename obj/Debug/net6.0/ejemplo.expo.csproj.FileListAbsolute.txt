@@ -1,0 +1,15 @@
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\bin\Debug\net6.0\ejemplo.expo.exe
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\bin\Debug\net6.0\ejemplo.expo.deps.json
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\bin\Debug\net6.0\ejemplo.expo.runtimeconfig.json
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\bin\Debug\net6.0\ejemplo.expo.dll
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\bin\Debug\net6.0\ejemplo.expo.pdb
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.csproj.AssemblyReference.cache
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.AssemblyInfoInputs.cache
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.AssemblyInfo.cs
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.dll
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\refint\ejemplo.expo.dll
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.pdb
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ejemplo.expo.genruntimeconfig.cache
+C:\Users\CompuStore\Desktop\puto el que lo lea\ejemplo.expo\obj\Debug\net6.0\ref\ejemplo.expo.dll
